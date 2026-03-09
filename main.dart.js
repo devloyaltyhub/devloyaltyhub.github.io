@@ -45192,7 +45192,7 @@ aiX:function aiX(a,b){this.a=a
 this.b=b},
 u2:function u2(){},
 Nt:function Nt(a){this.a=a},
-b88(){throw A.e(A.bq("Master email not configured.\nPlease set MASTER_FIREBASE_EMAIL environment variable."))},
+b88(){return"devloyaltyhub@gmail.com"},
 b87:function b87(){this.a=null
 this.b=!1},
 am8:function am8(a,b){var _=this
