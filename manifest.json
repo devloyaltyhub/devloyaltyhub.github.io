@@ -1,12 +1,12 @@
 {
-    "name": "Loyalty Hub Admin",
-    "short_name": "LH Admin",
+    "name": "loyalty_admin",
+    "short_name": "loyalty_admin",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FFFFFF",
-    "theme_color": "#6B4EFF",
-    "description": "Loyalty Hub Admin - Gerenciamento de programas de fidelidade",
-    "orientation": "any",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
